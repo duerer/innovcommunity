@@ -1,2 +1,2 @@
-# internspil
-Interns PIL repository
+# Innov' Community
+Innov' Community repository
